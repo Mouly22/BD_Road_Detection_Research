@@ -4,7 +4,7 @@ The following link gives an overview regarding the project including our researc
 
 The dataset we are using for this research: [RSUD20K](https://www.kaggle.com/datasets/hasibzunair/rsud20k-bangladesh-road-scene-understanding/data)
 
-Our project report regarding the research: [Overleaf](https://www.overleaf.com/read/sdfdnhxzzxdx#04d050)
+Our project report regarding the research: [Overleaf](https://www.overleaf.com/read/sdfdnhxzzxdx#04d050)  <div align=""> <img src="https://user-images.githubusercontent.com/74038190/235223599-0eadbd7c-c916-4f24-af9d-9242730e6172.gif" width="75">&nbsp;  </div>
 
 
 
